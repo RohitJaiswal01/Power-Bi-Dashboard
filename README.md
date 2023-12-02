@@ -27,10 +27,7 @@ Country wise week by week analysis of AHT & FCR.
 ![Screenshot 2023-12-02 175742](https://github.com/RohitJaiswal01/Power-Bi-Dashboard/assets/152694882/a809673d-605b-4be2-8430-35e6ea91baf1)
 
 Top reasons of contact country wise throughout the month.
-Top call reasons that have not met quality standards or KPI
-
-
-level target/goal.
+Top call reasons that have not met quality standards or KPI level target/goal.
 
 Identification of insights through analysis and presentation
 by storytelling through dashboard and reports.
