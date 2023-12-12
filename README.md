@@ -7,7 +7,7 @@ Having records of contact_id, met_service_level, total_handle_time,contact_chann
 
 Data analysis, Extract meaningful insights from data. Make sense of data with data visualization through reports and dashboards all with Power BI.
 
-Share, interact, and collaborate on reports based on the data to find the insights, trends, and critical business intelligence related to the KPIs AHT, FCR and analysing relationships and factors influencing the performance throughout the month.
+Share, interact, and collaborate on reports based on the data to find the insights, trends, and critical business intelligence related to the KPIs AHT, FCR and analyzing relationships and factors influencing the performance throughout the month.
 
 AHT (Average Handle Time) & FCR (First Call Resolution)
 
