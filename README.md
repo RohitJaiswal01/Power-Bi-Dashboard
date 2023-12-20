@@ -80,5 +80,8 @@ Exponential increase in unknown reasons (Blank) for Week 5 had contributed in de
 
 Despite of low calls in week 5 there has been decrease in FCR%, suggesting the calls are not the reasons for FCR decline in week 5. 
 
+Identification of insights through analysis and presentation by storytelling through dashboard and reports.
+
+Conclusion and suggestions to improve the performance of the process with key areas to focus.
 
 
