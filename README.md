@@ -3,6 +3,10 @@
 Real life dataset analysis through Power BI. Dataset having records for the month of September of a call center service company.
 Dataset having 1,03,514 rows and 33 columns.
 
+GDrive link
+
+https://drive.google.com/file/d/1DzvH_0Hj5_8ODjbeLz9XTXpbBXBE_XqY/view?usp=sharing
+
 Having records of contact_id, met_service_level, total_handle_time,contact_channel , country_name , is_first_contact_resolved,  contact_start_local,is_missed_contact, etc.
 
 Data analysis, Extract meaningful insights from data. Make sense of data with data visualization through reports and dashboards all with Power BI.
