@@ -3,7 +3,7 @@
 Real life dataset analysis through Power BI. Dataset having records for the month of September of a call center service company.
 Dataset having 1,03,514 rows and 33 columns.
 
-GDrive link
+GDrive link for download and view with Power BI
 
 https://drive.google.com/file/d/1DzvH_0Hj5_8ODjbeLz9XTXpbBXBE_XqY/view?usp=sharing
 
