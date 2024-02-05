@@ -35,6 +35,8 @@ Top call reasons that have not met quality standards or KPI level target/goal et
 
 
 September month Call Report Analysis
+![Screenshot 2024-02-05 132701](https://github.com/RohitJaiswal01/Power-Bi-Dashboard/assets/152694882/6f983d63-2160-443f-8770-745f89ffa6b9)
+
 ![Screenshot 2023-12-02 175645](https://github.com/RohitJaiswal01/Power-Bi-Dashboard/assets/152694882/042e1f85-c5b4-4e34-b26d-01d577e8cd40)
 
 Number of calls can be seen increasing variably.
