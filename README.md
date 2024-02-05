@@ -37,7 +37,6 @@ Top call reasons that have not met quality standards or KPI level target/goal et
 September month Call Report Analysis
 ![Screenshot 2024-02-05 132701](https://github.com/RohitJaiswal01/Power-Bi-Dashboard/assets/152694882/6f983d63-2160-443f-8770-745f89ffa6b9)
 
-![Screenshot 2023-12-02 175645](https://github.com/RohitJaiswal01/Power-Bi-Dashboard/assets/152694882/042e1f85-c5b4-4e34-b26d-01d577e8cd40)
 
 Number of calls can be seen increasing variably.
 
@@ -51,7 +50,8 @@ analysis through the week.
 
 
 AHT analysis for the month of September
-![Screenshot 2023-12-02 175700](https://github.com/RohitJaiswal01/Power-Bi-Dashboard/assets/152694882/3b4f48c4-4998-41eb-8b0a-fd7112524739)
+![Screenshot 2024-02-05 132716](https://github.com/RohitJaiswal01/Power-Bi-Dashboard/assets/152694882/87b5514f-3004-49cf-aa99-6522f9456dee)
+
 AHT can be seen continuously decreasing with Week over week.
 
 Monthly average AHT for September stood at 253.18 seconds.
@@ -69,7 +69,8 @@ In week 5  few reasons can be seen having major calls while other reasons have l
 
 
 First Call resolution Analysis
-![Screenshot 2023-12-02 175742](https://github.com/RohitJaiswal01/Power-Bi-Dashboard/assets/152694882/a809673d-605b-4be2-8430-35e6ea91baf1)
+![Screenshot 2024-02-05 132733](https://github.com/RohitJaiswal01/Power-Bi-Dashboard/assets/152694882/19a029d5-8422-48b0-bebc-a41fc8159257)
+
 Met service analysis along with the FCR % analysis country wise.
 
 Percentage change in calls by weeks and impact on FCR and met service level KPIs.
