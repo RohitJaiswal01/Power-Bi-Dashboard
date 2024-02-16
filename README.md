@@ -5,7 +5,7 @@ Dataset having 1,03,514 rows and 33 columns.
 
 GDrive link for download and view with Power BI
 
-[https://drive.google.com/file/d/1DzvH_0Hj5_8ODjbeLz9XTXpbBXBE_XqY/view?usp=sharing](https://drive.google.com/file/d/1UoK6BTlhkgJA8vwTzKefiGsd5Q39hUl9/view?usp=sharing)
+https://drive.google.com/file/d/1TIweH_u2Mghv8woj_r7TBoibFGHJk9sV/view?usp=sharing
 
 Having records of contact_id, met_service_level, total_handle_time,contact_channel , country_name , is_first_contact_resolved,  contact_start_local,is_missed_contact, etc.
 
@@ -35,7 +35,8 @@ Top call reasons that have not met quality standards or KPI level target/goal et
 
 
 September month Call Report Analysis
-![Screenshot 2024-02-05 132701](https://github.com/RohitJaiswal01/Power-Bi-Dashboard/assets/152694882/6f983d63-2160-443f-8770-745f89ffa6b9)
+![Screenshot 2024-02-16 231642](https://github.com/RohitJaiswal01/Power-Bi-Dashboard/assets/152694882/506f3733-0dfe-45b5-affc-f0d1e61bf254)
+
 
 
 Number of calls can be seen increasing variably.
@@ -50,7 +51,8 @@ analysis through the week.
 
 
 AHT analysis for the month of September
-![Screenshot 2024-02-05 132716](https://github.com/RohitJaiswal01/Power-Bi-Dashboard/assets/152694882/87b5514f-3004-49cf-aa99-6522f9456dee)
+![Screenshot 2024-02-16 231710](https://github.com/RohitJaiswal01/Power-Bi-Dashboard/assets/152694882/566f0e43-10dc-4d2a-a215-3a7ea567acd8)
+
 
 AHT can be seen continuously decreasing with Week over week.
 
@@ -69,7 +71,8 @@ In week 5  few reasons can be seen having major calls while other reasons have l
 
 
 First Call resolution Analysis
-![Screenshot 2024-02-05 132733](https://github.com/RohitJaiswal01/Power-Bi-Dashboard/assets/152694882/19a029d5-8422-48b0-bebc-a41fc8159257)
+![Screenshot 2024-02-16 231733](https://github.com/RohitJaiswal01/Power-Bi-Dashboard/assets/152694882/f0b04f59-4ce8-43ee-8b6e-d3b918e3dc98)
+
 
 Met service analysis along with the FCR % analysis country wise.
 
