@@ -71,7 +71,8 @@ In week 5  few reasons can be seen having major calls while other reasons have l
 
 
 First Call resolution Analysis
-![Screenshot 2024-02-16 231733](https://github.com/RohitJaiswal01/Power-Bi-Dashboard/assets/152694882/f0b04f59-4ce8-43ee-8b6e-d3b918e3dc98)
+![Screenshot 2024-02-16 232356](https://github.com/RohitJaiswal01/Power-Bi-Dashboard/assets/152694882/d9397e33-fdb5-419f-88e0-66498eb7cd16)
+
 
 
 Met service analysis along with the FCR % analysis country wise.
