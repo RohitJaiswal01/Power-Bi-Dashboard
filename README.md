@@ -1,4 +1,4 @@
-## Power-Bi-Dashboard
+## Power-BI-Dashboard
 
 Real life dataset analysis through Power BI. Dataset having records for the month of September of a call center service company.
 Dataset having 1,03,514 rows and 33 columns.
